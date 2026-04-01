@@ -1,9 +1,59 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="-qifKiwuUTzic3YpfhaP">
-    <mxGraphModel>
+    <mxGraphModel dx="1185" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x0BX0edKzluCeFnUSFa2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="旧版原厂手册" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-8" edge="1" parent="1" source="x0BX0edKzluCeFnUSFa2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x0BX0edKzluCeFnUSFa2-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="新版&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;原厂手册&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-7" edge="1" parent="1" source="x0BX0edKzluCeFnUSFa2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x0BX0edKzluCeFnUSFa2-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="旧版客户化手册" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-18" edge="1" parent="1" source="x0BX0edKzluCeFnUSFa2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x0BX0edKzluCeFnUSFa2-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="新版客户化手册" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-6" edge="1" parent="1" source="x0BX0edKzluCeFnUSFa2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x0BX0edKzluCeFnUSFa2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-13" connectable="0" parent="x0BX0edKzluCeFnUSFa2-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(189, 189, 189); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start; background-color: rgb(33, 33, 33);&quot;&gt;COPY_MANUAL_ID&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1524" as="geometry">
+            <mxPoint x="-59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="差异比对" vertex="1">
+          <mxGeometry height="80" width="80" x="110" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(189, 189, 189); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(33, 33, 33);&quot;&gt;OLD_MANUAL_ID&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(189, 189, 189); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(33, 33, 33);&quot;&gt;NEW_MANUAL_ID&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="生成CXA新版" vertex="1">
+          <mxGeometry height="80" width="80" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="新增 manual_file 表记录" vertex="1">
+          <mxGeometry height="30" width="340" x="550" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="手册修订" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="x0BX0edKzluCeFnUSFa2-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="新增 manual_file 记录" vertex="1">
+          <mxGeometry height="30" width="290" x="575" y="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
